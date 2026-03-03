@@ -1,0 +1,8 @@
+Got into course late, I had missed the morning checkins and meditation, but im also still not feeling well (pregnancy symptoms).
+Still going over the order summary card, I've changed  couple things on my code, coz the images had broken code init. Lolol
+
+I worked on my tracking project over the weekend, smashed out a lot of code and even did my luck on .js files and done my const and booleans for the parameters for "AutoTrack" which by the way is the name of my tracking app.
+
+Trying to fix the tailwind css issues im having as well as node and npm issues, I need help from victor or Sylvia.
+
+Finished the single price component card, to its full potential. I need to organize my tracking project a lil bit better.
