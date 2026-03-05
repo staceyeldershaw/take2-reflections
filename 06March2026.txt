@@ -1,0 +1,9 @@
+Completed my test today, I couldn't upload it yesterday with how hard my computer was working yesterday, it needed a break and so did I spent the whole day behind my computer yesterday and done some good work on my tracking project. I will need help later on when it comes to making it React ready and able to be pushed onto servers properly. I seem to be having trouble with where I'm storing my files for the project. 
+
+Because it is on local storage, it won't load in chrome, so I've had to instal a extension on vs code to be able to read my code and show the browser so I can see my changes as I make them.
+
+Yesterday I had so many bugs with my js code and my css, but that's all apart of it, I had to go back to w3 schools, as well as using ai to guide me through not to just give me an answer.
+
+But to be fair I have fixed the issue I was having before and now at least some of my pages work. Now I just have to get the rest to work hahaha but all in another days work and progression. 
+
+Im using trello which visitor got me into and now I'm "carding" all my tasks and to do lists in my head which is so handy, because its allowing my brain to not have to worry about keeping so many lists
