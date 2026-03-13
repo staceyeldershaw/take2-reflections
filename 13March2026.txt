@@ -1,0 +1,15 @@
+I know today isnt a course day, but i did some more work on my project tracking web/app im building.
+
+Ive come across alot of bugs in my javascript, working out the loops and the logic. 
+realising i have to add and delete so much and then going through and finding the right code to delete or 
+modify was challenging. VERYYYYY CHALLENGING.
+
+But i have gotten alot of work done today, I have made drop down boxes for the vehicle type eg: sedan, hatchback
+as well as for fuel type and drivetrain.
+
+also added logic that if you choose either rwd,awd or 4wd the differential servicing option and intervals will
+appear for your car, based on the current mileage you input into the website.
+
+I feel like ive done alot of good work, in between my dads therapies and regular house chores.
+very poroductive day indeed.
+it now 20.17 and im about to make my last commit for the day. and sign off for the day.
