@@ -1,0 +1,12 @@
+Have had a really long day, partner was in hospital and i was doing coding in all the down time. i was working on alot of issues
+but i have worked most of them out and finally at8.30pm i got my progress bars to work!! 
+
+it all came down to the bloody css files have a duplicate root colour theme, i was ruling out my theme file and so it wasnt rendering in the layout file when loading on the browser.
+
+I am still very happy at where i am with my project it is taking alot longer than anticipated but i am really trying not to use ai to just write my code,
+
+i more use it to help me figure out my bugs and issues, 
+
+yesterday i woeked on th seperate cards for the services and logic that went behind them, it ws very 
+confusing and i got stuck alot and used w3 schools and mdn to figure out the logic as well as ai to also help me figure out the math
+but all in all my app is really coming along and im proud of what i have so far.
