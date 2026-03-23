@@ -1,0 +1,12 @@
+worked a little on my project, i added a health status to my cards and a rego plate fieldbox for users to input ,
+rego plates as this is more used in fleet management systems.
+
+added fleet alerts so im in the beginnings of getting my dashboard to look how i want it.
+at least the one thing i can say is that by setting my theme early it has made it easy to keep
+the page designed how i want it for now, i will later on add background texture like a carbon fibre, or 
+leather upholstery look.
+
+working on this while ive been sick has been a heavy struggle, so im not looking forward to course this 
+week. its going to be a hard push. especially on review day.
+
+
