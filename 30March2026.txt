@@ -1,0 +1,10 @@
+worked a lil on my project worked on getting the filters working for the stat cards ive made on thedashboard, 
+starting to make it look like a real website that can be used for fleet management. or at least someting friends
+can use to track the maintenance on their cars.
+
+worked a couple bugs i had with the logic surrounding the "due soon" tab as it wasnt showing vehicle card. 
+
+now im starting to work on the logic and everything for the service tracking which is a big part of the website,
+as this will basically be one big data center.
+
+signing off now at 22.41pm NZDST
