@@ -1,0 +1,10 @@
+did go to course yesterday i woke up so late, took my daughter to school, being late is better than not being there at all 
+for her last day. i fugured with me having to go pick het up at 2.15 there was no point in me continuing and going to course as i would only be there for an hour, 
+with the hour long lunch break it just seemed like a waste of gas and paying for parking.
+
+i did alot of work on my project im  still in phase 2 of my project but now i am setting up the 
+notifications and the service tracking properly so its becoming a proper real world application 
+that can be used by me and my friends and others who i want to give to to test.
+
+victor and i have been nondling the idea of using obd2 data taken from the computer so you cut out
+the diagnostics costs of taking avehicle to the mechanic.
