@@ -1,0 +1,16 @@
+worked on project got alot done.
+
+worked on visual presentation of the app putting the services into a gris
+instead of the user continuosly scrolling to view the services. as well as working on logic to make services clickable from
+the service tracker tab and it will go directly to the vehicle details page.
+
+now to go to a family dinner for good friday, where i might work on project some more.
+
+worked on my project and got the notifications up and running with alot of bugs inbetween. 
+I had it working, but only on the notifications page, then i tried to get it to work on all the 
+pages and ended up breaking my entire sidebar again, but i fixed it and just found the error,
+that was bugging everything. I had missed naming the vehicles variable in the function so it didnt know
+what to call.
+
+
+
