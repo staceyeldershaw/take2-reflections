@@ -1,0 +1,46 @@
+Reflections from 04-04-2026 to 11-04-2026
+
+04-04-2026
+Worked on creating a badge in the sidebar and getting it to count and update automatically
+upon completion of a service.
+Ran into a few bugs which caused all my vehicles to disappear, most of my bugs has been due to small 
+spelling mistakes, which makes it super annoying to try find.
+Added notification filters (all, overdue, due soon)
+Had to correct the logic for my notification filters as it wasnt shwoing the due soon services when in
+the tab for it, as well as updating its state so it would update and re render automatically instead of on refresh
+which is the way it was rendering on the page. I realised that i was calling the wrong thing and had to go back and change
+lil typos  ("due-soon" supposed to be "soon")
+Added a cute lil icon for it as well. 
+Once the filters were working properly i was working on making the alerts clickable and go directly to the service thats either od or due soon.
+
+07-04-2026
+Realised after testing that my logic was flawed and had to use w3 and mdn and Ai to try help me sort
+out why my badge wasnt counting and reloading instantly, instead of on refresh.
+Things started to get really busy around the home and i added the wrong line of code to the wrong file and ended up breaking
+my code lolol. But then i figured I want to add a scrool and glow to a specific service from notifications, instead of just making it clickable.
+Also was looking on MDN on how to make the badge pop so i tried to code that into my project, and i did make it successfully,
+but it was a bump, so it was very subtle to the point you couldnt tell the animation was happening. But i was proud of myself for
+figuring how to animate my badges.
+
+09-04-2026 - 10-04-2026
+Shwoing my project to my parents, i had found a typo in my service interval for the differential service, like omg something so small,
+Found another typo which was making the project break, URl instead of URL. like broooo come on.
+Because the animation on the badge was very subtle, changed it to a pop, aaaaand broke my code, 
+so i had to go back to MDN adn figure out what i did wrong, tried to fix it and that still wasnt working, so I asked AI to help me figure it out,
+which helped me figure out that my conditions were wrong becasue even if i marked a service as completed if it was over due or due soon,
+it wasnt updating the number automatically only on refresh so i made it check its count againt the history and update accordingly, which made 
+me so happy when i figured it out and everything worked with the aninmation.
+Made a big bit of progress and updated the dashboard fleet alerts to be based off the notification system which really opened up 
+the deep linking in my project, from services either in notifications or dashboard, to the vehicle card, to opening the vehicle details adn smoothly scrolling to the selected service,
+and allowing for a shared alert system so everything is basically talking to each other to keep it all updated, which is such a cool thing to think about the processes behind everything.
+Then I added the last mechanic and cost into the notifications so youcan see at a glance who and how much, threw a bug and worked it out in the console, i had dupplicating names in the code
+which was cancelling each other out, when i was trying to get it to only show the most recent 3 alerts.
+Then i was learnig about highlights around the borders so i tried to work that into my project, and made it so everything links back to the vehicle-details page and smoothly scrolls,
+but the highlighting the specific service wasnt working because i was calling it incorrectly.
+Also change the glow to a glowing pulse instead.
+Worked on making the history collapsable from the vehicle details page, taking the most recent service and displaying that.
+I was throwing alot of errors and i realised that nothing had any history, and evertything ive doen has worked off test data i loaded into the app from the console, so had to add temp test data history
+so i could make sure that the feature was working properly, which i realise now im going to have to change,
+otherwise it will always render test data, even if i updated a service. Another big error i was having was placing the things in the wrong loop, or just outside the loop, im callingit and javascript is
+going like um where is the info bro.... you cant do me like that. And then the last error i had was format and not having closing braces where they needed to be.
+
