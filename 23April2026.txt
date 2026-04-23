@@ -22,3 +22,9 @@ Which is also making me very itchy.
 I have to go early today which im not looking forward to leaving, buti am looking forward to buying babys boots and seeing her first practice.
 AND I FOUND MY CARD WITHIN MY NOTEBOOK. AND THEN I JUST SO HAPPENED TO LOOK DOWN ON THE GROUND AND FOUND THE BACK TO MY DAUGHTERS EARRING I LOST
 YESTERDAY.
+
+My afternoon was just killed. I was expecting a 100% or 20/20 but apparently my diligence was not enough. I capiltilised a letter which shouldve
+been lowercase and then forgot to use camelcase an element instead.
+The last question was what really pissed me off though because the question and how it was written to what i wroyte is what i thought was expected
+only to find out that he wanted a more in depth explanation of innerText and getElementById, which isnt exactly how the question is asking you to answer.
+i am really pissed off about this.
