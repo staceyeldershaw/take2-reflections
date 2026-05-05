@@ -1,0 +1,19 @@
+got to course late as I was having to drop my partner off at work, and my daughter and then get back through all the traffic so i could 
+get to course, realising that I had to park further away as I have no more free street to park that was close by.
+
+But ive realised I can go park by my breast cancer treatment center as they also have free parking. 
+
+Got to course and I filled the team on my cancer free news as well as the challenge that I had over the weekend with mens mantality 
+around the history of golf. which is a gentlemans game, and woman were not allowed to play untill the late 1920's.
+
+This put a bit of strain on relationship as my partner doesnt like being wrong or accepting that he is wrong, or doesnt have the right information,
+to make a informed decision or opinion.
+
+Learning about mapping and filtering which is about how we can return value that your searching for.
+Mapping:
+Using backticks to help the template literal so you can write verbatim what is being asked "job 1 is at (example address)"
++ 10  = is adding to the end, anything with numbers will then have 10 added to it
+the curly braces requires an explicit return (being a certain value that your searching for, one single line your looking for)
+implicit functions are when your looking for more than one value. use curly braces when looking for more than one line, but make sure that it has a return value.
+implicit is hidden between the lines, you dont write return.
+explicit is when a return is required.
